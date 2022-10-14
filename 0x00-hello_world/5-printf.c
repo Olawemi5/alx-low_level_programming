@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: 'the program's description'
+ * Description: 'printf'
  *
  * Return: Always 0 (Success)
  */

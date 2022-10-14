@@ -2,7 +2,7 @@
 /**
  * main - Entry
  *
- * Description: 'the program's description'
+ * Description: 'puts'
  *
  * Return: Always 0 (Success)
  */
