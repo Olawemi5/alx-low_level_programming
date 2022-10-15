@@ -13,7 +13,7 @@ int main(void)
 	int nm;
 
 	for (nm = 0; nm < 10; nm++)
-		printf("%d", nm);
+		printf(nm);
 
 	printf('\n');
 
