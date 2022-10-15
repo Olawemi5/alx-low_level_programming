@@ -13,10 +13,10 @@ int main(void)
 {
 	char lc;
 
-	for (lc = 'a'; lc != 'q' && 'e'; lc <= 'z'; lc++)
+	for (lc = 'a'; lc != 'q'; lc != 'e'; lc <= 'z'; lc++)
 	{
 		putchar(lc);
 	}
-		putchar('\n')
+		putchar('\n');
 	return (0);
 }
