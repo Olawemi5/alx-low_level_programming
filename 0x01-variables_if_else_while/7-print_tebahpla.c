@@ -2,8 +2,10 @@
 
 /**
  * main - Entry
- * Description - lowercase alphabet in reverse
- * Return - Always 0
+ *
+ * Description: lowercase alphabet in reverse
+ *
+ * Return: Always 0
  */
 
 int main(void)

@@ -10,12 +10,12 @@
 
 int main(void)
 {
-	int nm;
+	int num;
 
-	for (nm = 0; nm < 10; nm++)
-		printf(nm);
+	for (num = 0; num < 10; num++)
+		printf("%d", num);
 
-	printf('\n');
+	printf("\n");
 
 	return (0);
 }
