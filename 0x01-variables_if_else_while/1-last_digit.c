@@ -5,12 +5,12 @@
 /*
  * main - Entry point
  *
- * Description: 'The last digit'
+ * Description: 'print the last digit of the number stored in the variable n'
  *
  * Return:Always 0 (Success)
  */
 
-int main(void)
+int main(void);
 {
 	int n;
 	int a;
