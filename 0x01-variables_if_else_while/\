@@ -3,7 +3,7 @@
 /**
  * main - Entry
  *
- * Description: Numbers
+ * Description: numbers with conditions
  *
  * Return: Always 0
  */
@@ -11,11 +11,10 @@
 int main(void)
 {
 	int nm;
-
 	for (nm = 0; nm < 10; nm++)
-		printf("%d", nm);
+		putchar(nm);
 
-	printf('\n');
+	putchar('\n');
 
 	return (0);
 }
