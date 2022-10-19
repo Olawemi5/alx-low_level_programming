@@ -3,20 +3,20 @@
 /**
   *print_last_digit - check for digit
   *
-  *@c: integer to check
+  *@n: integer to check
   *
   *Return: value of last digit
   */
 
-int print_last_digit(int c)
+int print_last_digit(int n)
 
 {
-	int dg = c % 10;
+	int ld = n % 10;
 
-	if (dg < 0)
-		dg *= -1;
+	if (ld < 0)
+		ld *= -1;
 
-	_putchar(dg + '0');
+	_putchar(ld + '0');
 
 	return (0);
 }
