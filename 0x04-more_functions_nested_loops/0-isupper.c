@@ -6,6 +6,7 @@
  *
  * Return: 0 or 1
  */
+
 int _isupper(int c)
 
 {
@@ -13,5 +14,4 @@ int _isupper(int c)
 		return (1);
 	else
 		return (0);
-
 }
