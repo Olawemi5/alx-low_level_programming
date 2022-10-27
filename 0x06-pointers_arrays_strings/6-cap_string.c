@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
-  *cap_string - capitalize words 
+  *cap_string - capitalize words
   *@str: string
   *
   *Return: point to string
   */
 
-char *cap_string(char *)
+char *cap_string(char *str)
 {
 	int i = 0;
 
